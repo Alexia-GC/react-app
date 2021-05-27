@@ -1,0 +1,44 @@
+.orden {
+    padding: 10% 0;
+}
+.orden ul {
+    list-style: none; 
+    padding: 0;
+}
+
+.orden ul li {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 3%;
+    align-items: center;
+}
+
+.empty h1 {
+    padding: 20% 0 3% 0;
+}
+
+.empty a {
+    color: #939aaa;
+    font-style: italic
+}
+
+.chkh2 {
+    padding: 5% 0 3% 0;
+}
+
+.checkout {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 2%;
+}
+
+.checkout input{
+    width: 60%;
+    height: 40px;
+}
+
+.checkout label {
+    padding-right: 5%;
+}

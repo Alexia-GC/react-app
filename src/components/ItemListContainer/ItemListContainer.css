@@ -1,0 +1,30 @@
+.obras {
+    padding: 5% 0 2% 0;
+}
+
+.obras h1 {
+    margin-bottom: 5%;
+}
+
+.obras .handler {
+    display: flex;
+    justify-content: center; 
+    margin-bottom: 10%;
+}
+
+.obras .btn, button {
+    font-weight: 700;
+    display: inline-block;
+    transition: 0.5s;
+    margin: 10px;
+    border: 1px solid #f1f1f1;
+    color: #f1f1f1;
+    background-color: transparent;
+}
+
+.obras .btn:hover {
+    background:#212b35;
+    border:1px solid #07939a;
+    color:#07939a;
+    text-decoration:none;
+}

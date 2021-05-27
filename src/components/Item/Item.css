@@ -1,0 +1,18 @@
+.img-card {
+    width: 20rem;
+}
+
+.art__card {
+    max-width: 480px;
+    background-color: #212b35;
+    padding-bottom: 8%;
+}
+
+.art__card h2 {
+    margin-top: 5%;
+}
+
+.art__card a {
+    color: #939aaa;
+    font-style: italic;
+}
